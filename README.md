@@ -1,6 +1,7 @@
 
   # E-Commerce DB
 
+![13-gif](https://user-images.githubusercontent.com/65085372/90304698-fde3d080-de7f-11ea-9abc-0765cd25161d.gif)
 
   ## Description
 
